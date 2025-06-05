@@ -6,7 +6,7 @@ class TicTacToe {
 private:
     char board[3][3];
     char turn;
-    bool draw; 
+    bool draw;
 
     void init_board() {
         char num = '1';
