@@ -1,2 +1,4 @@
-*.exe
+**/*.exe
 compiler
+.vscode
+main2.cpp
